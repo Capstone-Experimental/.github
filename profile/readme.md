@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="400" src="/profile/logo.jpeg" />
+  <img align="center" width="400" src="/profile/logo2.jpeg" />
 </p>
 <h1 align="center">KnowZe</h1>
 <h2 align="center">Deskripsi 10 - 20 kata</h2>
