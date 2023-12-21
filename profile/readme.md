@@ -10,7 +10,7 @@
 | Name                  | ID            | Path               | Github                                              |
 | --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
 | Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning | [example](https://github.com/example)           |
-| Nadia Laras      | M315BSX0617    | Machine Learning |          |
+| Nadia Laras      | M315BSX0617    | Machine Learning | [nadialaraz](https://github.com/nadialaraz)         |
 | Muhammad Zidane Arkan  | M315BSY0300    | Machine Learning   |             |
 | Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   |        |
 | Ghulam Muzafar     | C279BSY3859    | Cloud Computing   | [ghulammuzz](https://github.com/ghulammuzz) |
