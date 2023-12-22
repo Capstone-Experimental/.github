@@ -9,10 +9,10 @@
 #### Members
 | Name                  | ID            | Path               | Contact                                              |
 | --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
-| Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning |          |
+| Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning |     [Github](https://github.com/azhryl)     |
 | Nadia Laras      | M315BSX0617    | Machine Learning | [Github](https://github.com/nadialaraz)         |
-| Muhammad Zidane Arkan  | M315BSY0300    | Machine Learning   |             |
-| Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   | [Github](https://github.com/r-G7D) & [LinkedIn](https://www.linkedin.com/in/danang-rahmat-bachtiar/)       |
+| Muhammad Zidane Arkan  | M315BSY0300    | Machine Learning   |      [Github](https://github.com/zidane-arkan)       |
+| Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   | [Github](https://github.com/r-G7D)      |
 | Ghulam Muzafar     | C279BSY3859    | Cloud Computing   | [Github](https://github.com/ghulammuzz) |
-| Fitria Widyani | A152BSX2010    | Mobile Development    |        |
+| Fitria Widyani | A152BSX2010    | Mobile Development    |   [Github](https://github.com/fitriadyaa)     |
 | Willy | A204BSY1948    | Mobile Development    |     [Github](https://github.com/Will-Lim1)     |   
