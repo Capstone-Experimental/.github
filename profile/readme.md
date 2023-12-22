@@ -1,9 +1,11 @@
-  <img align="center" width="400" src="/profile/logo2.jpeg" />
+
+<p align="center">
+  <img align="center" width="700" src="/profile/logo2.jpeg" />
 </p>
 <h1 align="center">KnowZe</h1>
-<h2 align="justify">knowZe is a groundbreaking project developed by Team CH2-PS026, focused on addressing the educational needs and preferences of Generation Z. The team identified the digital literacy and demand for practical solutions among the younger generation, leading to the creation of a personalized online learning platform. The platform, knowZe, aims to provide comprehensive solutions through interactive courses based on user-provided keywords.</h2>
+<h4 align="justify">knowZe is a groundbreaking project developed by Team CH2-PS026, focused on addressing the educational needs and preferences of Generation Z. The team identified the digital literacy and demand for practical solutions among the younger generation, leading to the creation of a personalized online learning platform. The platform, knowZe, aims to provide comprehensive solutions through interactive courses based on user-provided keywords.</h4>
 
-<h3 align="center">Bangkit 2023 Capstone Team: CH2-PS026</h3>
+<h2 align="center">Bangkit 2023 Capstone Team: CH2-PS026</h2>
 
 #### Members
 | Name                  | ID            | Path               | Github                                              |
