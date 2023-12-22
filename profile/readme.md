@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" width="700" src="https://github.com/Capstone-Experimental/.github-private/assets/103941947/937a739d-fb3c-4fa7-bb62-8b061199c5c6" />
 </p>
-<h4 align="justify">knowZe is a groundbreaking project developed by Team CH2-PS026, focused on addressing the educational needs and preferences of Generation Z. The team identified the digital literacy and demand for practical solutions among the younger generation, leading to the creation of a personalized online learning platform. The platform, knowZe, aims to provide comprehensive solutions through interactive courses based on user-provided keywords.</h4>
+<p align="justify">knowZe is a groundbreaking project developed by Team CH2-PS026, focused on addressing the educational needs and preferences of Generation Z. The team identified the digital literacy and demand for practical solutions among the younger generation, leading to the creation of a personalized online learning platform. The platform, knowZe, aims to provide comprehensive solutions through interactive courses based on user-provided keywords.</p>
 
 <h2 align="center">Bangkit 2023 Capstone Team: CH2-PS026</h2>
 
