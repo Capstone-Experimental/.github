@@ -8,12 +8,12 @@
 <h2 align="center">Bangkit 2023 Capstone Team: CH2-PS026</h2>
 
 #### Members
-| Name                  | ID            | Path               | Github                                              |
+| Name                  | ID            | Path               | Contact                                              |
 | --------------------- |:-------------:|:------------------:|:---------------------------------------------------:|
-| Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning | [example](https://github.com/example)           |
-| Nadia Laras      | M315BSX0617    | Machine Learning | [nadialaraz](https://github.com/nadialaraz)         |
+| Azhryl Akbar Assagaf    | M279BSY1338    | Machine Learning |          |
+| Nadia Laras      | M315BSX0617    | Machine Learning | [Github](https://github.com/nadialaraz)         |
 | Muhammad Zidane Arkan  | M315BSY0300    | Machine Learning   |             |
-| Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   | [r-G7D](https://github.com/r-G7D)       |
-| Ghulam Muzafar     | C279BSY3859    | Cloud Computing   | [ghulammuzz](https://github.com/ghulammuzz) |
+| Danang Rahmat Bachtiar   | C279BSY3976    | Cloud Computing   | [Github](https://github.com/r-G7D) & [LinkedIn](https://www.linkedin.com/in/danang-rahmat-bachtiar/)       |
+| Ghulam Muzafar     | C279BSY3859    | Cloud Computing   | [Github](https://github.com/ghulammuzz) |
 | Fitria Widyani | A152BSX2010    | Mobile Development    |        |
-| Willy | A204BSY1948    | Mobile Development    |     [Will-Lim1](https://github.com/Will-Lim1)     |   
+| Willy | A204BSY1948    | Mobile Development    |     [Github](https://github.com/Will-Lim1)     |   
